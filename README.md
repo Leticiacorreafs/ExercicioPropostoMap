@@ -10,9 +10,3 @@ Este projeto contém dois exercícios propostos pela professora:
    - Simula 100 lançamentos de um dado.
    - Armazena os resultados e exibe quantas vezes cada valor foi obtido.
 
-## Estrutura do Projeto
-
-exerciciopropostomap/
-├── Main.java       ← Exercício principal
-├── Desafio.java    ← Desafio do dado
-└── README.md       ← Este arquivo
